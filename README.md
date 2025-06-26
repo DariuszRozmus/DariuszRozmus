@@ -1,8 +1,8 @@
 ## About Me 😀
-👨‍💻I'm persuing an engenering degree in Computer Science on AGH University Krakow
-👀 I’m interested in programming
-🌱 I’m currently learning: Rust, Elixir, Python and many more
-📫 How to reach me: darek.rozmus.pl@gmail.com
+👨‍💻I'm persuing an engenering degree in Computer Science on AGH University Krakow  
+👀 I’m interested in programming  
+🌱 I’m currently learning: Rust, Elixir, Python and many more  
+📫 How to reach me: darek.rozmus.pl@gmail.com  
 
 ## 🎓 Studia i kursy
 
