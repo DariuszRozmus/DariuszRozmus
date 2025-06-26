@@ -6,6 +6,8 @@
   <img src="https://profile-counter.glitch.me/{DariuszRozmus}/count.svg" alt="Visitor's Count" />
 </div>
 
+<img src="https://github.com/{DariuszRozmus}/{DariuszRozmus}/blob/main/software-developer.png" alt="Banner of a developer sitting in front of a desk">
+
 ## ⚡️ Stats
 
 <br>
