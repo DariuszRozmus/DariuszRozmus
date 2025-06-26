@@ -10,6 +10,7 @@
 <div>
   <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs?username=DariuszRozmus&theme=transparent&layout=compact&hide=css&langs_count=8&locale=en"           alt="DariuszRozmus's Most Used Languages" />
 </div>
+<br><br>
 
 <div align="center"> 
   <p>Visitor count</p>
