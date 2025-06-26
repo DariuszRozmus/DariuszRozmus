@@ -4,10 +4,10 @@
 
 
 ## ⚡️ Stats
-<div align="center">
-  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/{USERNAME}/{USERNAME}/output/github-contribution-grid-snake-dark.svg" />
-  </picture>
+<div align=center>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=DariuszRozmus&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="DariuszRozmus's GitHub Stats" />
+</div>
+<div>
   <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs?username=DariuszRozmus&theme=transparent&layout=compact&hide=css&langs_count=8&locale=en"           alt="DariuszRozmus's Most Used Languages" />
 </div>
 
