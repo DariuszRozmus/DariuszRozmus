@@ -10,7 +10,7 @@
 
 
 <img src="https://github.com/{DariuszRozmus}/{DariuszRozmus}/blob/main/software-developer.png" alt="Banner of a developer sitting in front of a desk">
-<img width="390" src="https://github-readme-stats.vercel.app/api/top-langs?username=DariuszRozmus&theme=calm&layout=compact&hide=css&langs_count=8&locale=en" alt="DariuszRozmus's Most Used Languages" />
+<img width="390" src="https://github-readme-stats.vercel.app/api/top-langs?username=DariuszRozmus&theme=transparent&layout=compact&hide=css&langs_count=8&locale=en" alt="DariuszRozmus's Most Used Languages" />
 
 ## ⚡️ Stats
 
