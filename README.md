@@ -6,29 +6,13 @@
   <img src="https://profile-counter.glitch.me/{DariuszRozmus}/count.svg" alt="Visitor's Count" />
 </div>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=DariuszRozmus&show_icons=true&theme=calm)
-
-<img src="https://github-profile-trophy.vercel.app/?username=DariuszRozmus&theme=flat&column=3&margin-w=15&margin-h=15" />
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DariuszRozmus&layout=compact&theme=radical)
-
 ## ⚡️ Stats
 
 <br>
 
-<div align="center">
-<img width="370" src="https://github-readme-stats.vercel.app/api?
-  username=DariuszRozmus
-  &theme=transparent
-  &count_private=true
-  &show_icons=true
-  &rank_icon=github
-  &locale=en" 
-alt="DariuszRozmus's GitHub Stats" />
-
-<!--   <img width="370" src="https://github-readme-stats.vercel.app/api/top-langs?username=DariuszRozmus&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="DariuszRozmus's Most Used Languages" /> -->
-
+<div align=center>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=chijiokeokorji&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="ChijiokeOkorji's GitHub Stats" />
+  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=chijiokeokorji&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="ChijiokeOkorji's Most Used Languages" />
 </div>
 
 <hr>
-
