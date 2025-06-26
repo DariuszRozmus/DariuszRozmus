@@ -5,7 +5,7 @@
 📫 How to reach me: darek.rozmus.pl@gmail.com
 
 ## 🎓 Studia i kursy
-<br>
+
 ### 📘 Semestr 1
 - Wstęp do informatyki
 
