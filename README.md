@@ -4,8 +4,8 @@
 
 
 ## ⚡️ Stats
-<div align=center>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=DariuszRozmus&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="DariuszRozmus's GitHub Stats" />
+<div align=left>
+  <img width=490 src="https://github-readme-stats.vercel.app/api?username=DariuszRozmus&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="DariuszRozmus's GitHub Stats" />
 </div>
 <div>
   <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs?username=DariuszRozmus&theme=transparent&layout=compact&hide=css&langs_count=8&locale=en"           alt="DariuszRozmus's Most Used Languages" />
