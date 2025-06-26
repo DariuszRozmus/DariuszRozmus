@@ -6,7 +6,7 @@
   <img src="https://profile-counter.glitch.me/{DariuszRozmus}/count.svg" alt="Visitor's Count" />
 </div>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=DariuszRozmus&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=DariuszRozmus&show_icons=true&theme=calm)
 
 <img src="https://github-profile-trophy.vercel.app/?username=DariuszRozmus&theme=flat&column=3&margin-w=15&margin-h=15" />
 
