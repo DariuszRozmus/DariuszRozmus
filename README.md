@@ -1,6 +1,3 @@
-## Here is my personal website👋
-//link//
-
 ## About Me 😀
 👨‍💻I'm persuing an engenering degree in Computer Science on AGH University Krakow
 👀 I’m interested in programming
@@ -8,7 +5,7 @@
 📫 How to reach me: darek.rozmus.pl@gmail.com
 
 ## 🎓 Studia i kursy
-
+<br>
 ### 📘 Semestr 1
 - Wstęp do informatyki
 
