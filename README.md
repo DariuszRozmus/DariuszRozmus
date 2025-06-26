@@ -18,6 +18,11 @@
 <div align="center">
   <img width="370" src="https://github-readme-stats.vercel.app/api?username=DariuszRozmus&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="DariuszRozmus's GitHub Stats" />
 <img width="370" src="https://streak-stats.demolab.com/?user=DariuszRozmus&theme=transparent&count_private=true&border_radius=10&locale=en" alt="DariuszRozmus's GitHub Streak" />
+
+
+<img src="https://github-profile-trophy.vercel.app/?username=DariuszRozmus&theme=flat&column=3&margin-w=15&margin-h=15" />
+
+  
   <img width="370" src="https://github-readme-stats.vercel.app/api/top-langs?username=DariuszRozmus&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="DariuszRozmus's Most Used Languages" />
 </div>
 
