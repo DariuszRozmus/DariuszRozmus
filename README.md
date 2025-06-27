@@ -1,34 +1,36 @@
 ## About Me 😀
-👨‍💻I'm persuing an engenering degree in Computer Science on AGH University Krakow  
+
+👨‍💻 I'm pursuing an engineering degree in Computer Science at AGH University of Krakow  
 👀 I’m interested in programming  
-🌱 I’m currently learning: Rust, Elixir, Python and many more  
+🌱 I’m currently learning Rust, Elixir, Python and many more  
 📫 How to reach me: darek.rozmus.pl@gmail.com  
 
 ## 🎓 Studia i kursy
 
 ### 📘 Semestr 1
-- Wstęp do informatyki
+- [Introduction to Computer Science](https://github.com/DariuszRozmus/Introduction_to_Computer_Science)
 
 ### 📗 Semestr 2
-- Struktury danych i algorytmy
-- Programowanie imperatywne
+- [Algorithms and Data Structures](https://github.com/DariuszRozmus/Algorithms_and_Data_Structures)
+- [Imperative Programming](https://github.com/DariuszRozmus/Imperative_Programming)
 
 ### 📘 Semestr 3
-- [Wprowadzenie do aplikacji webowych](https://github.com/DariuszRozmus/web-app-intro)
-- [Programowanie obiektowe](https://github.com/DariuszRozmus/oop)
-- [Wprowadzenie do baz danych](https://github.com/DariuszRozmus/databases)
-- Programowanie funkcyjne
-- Rachunek prawdopodobieństwa i statystyka
-- [Równania różniczkowe](https://github.com/DariuszRozmus/rownania-rozniczkowe)
+- [Introduction to Web Applications](https://github.com/DariuszRozmus/Introduction_to_Web_Applications)
+- [Object Oriented Programming](https://github.com/DariuszRozmus/Object_Oriented_Programming)
+- [Introduction to Databases](https://github.com/DariuszRozmus/Introduction_to_Databases)
+- Functional Programming
+- Probability and Statistics
+- [Differential Equations](https://github.com/DariuszRozmus/Differential_Equations)
 
 ### 📗 Semestr 4
-- [Metody obliczeniowe](https://github.com/DariuszRozmus/computational-methods)
-- [Projektowanie obiektowe](https://github.com/DariuszRozmus/oop-design)
-- [Systemy operacyjne](https://github.com/DariuszRozmus/os)
-- [Systemy baz danych](https://github.com/DariuszRozmus/database-systems)
-- [JavaScript](https://github.com/DariuszRozmus/javascript)
-- [Python](https://github.com/DariuszRozmus/python)
-
+- [Computational Methods](https://github.com/DariuszRozmus/Computational_Methods)
+- [Digital Electronics](https://github.com/DariuszRozmus/Digital_Electronics)
+- [Object Oriented Design](https://github.com/DariuszRozmus/Object_Oriented_Design)
+- [Operating Systems](https://github.com/DariuszRozmus/Operating_Systems)
+- [Database Systems](https://github.com/DariuszRozmus/Database_Systems)
+- [Rust](https://github.com/DariuszRozmus/Rust)
+- [Erlang](https://github.com/DariuszRozmus/Erlang)
+- [Elixir](https://github.com/DariuszRozmus/Elixir)
 
 
 
