@@ -9,7 +9,7 @@
 
 ## 🚀 Projects
 
-- [Ski rental Data Base mini project MongoDB](https://github.com/DariuszRozmus/Ski_Rental)
+- [MongoDB Data Base mini project](https://github.com/DariuszRozmus/Ski_Rental)
 
 
 ---
