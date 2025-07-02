@@ -9,8 +9,8 @@
 
 ## 🚀 Projects
 
-- [MongoDB mini project](https://github.com/DariuszRozmus/Ski_Rental)
-
+- [MongoDB Ski-Rental](https://github.com/DariuszRozmus/Ski_Rental)
+- [TSQL  Course Provider](https://github.com/DariuszRozmus/Ski_Rental)
 
 ---
 
