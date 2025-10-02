@@ -41,6 +41,16 @@
 - [Erlang](https://github.com/DariuszRozmus/Erlang)
 - [Elixir](https://github.com/DariuszRozmus/Elixir)
 
+### 📗 Semester 5
+- [Microprocessor Technology](https://github.com/DariuszRozmus/Microprocessor_Technology)
+- [Computer Networks](https://github.com/DariuszRozmus/Computer_Networks)
+- [Fundamentals of artificial intelligence](https://github.com/DariuszRozmus/Fundamentals_of_artificial_intelligence)
+- [Theory of Concurrency](https://github.com/DariuszRozmus/Theory_of_Concurrency)
+- [Computation and Complexity Theory](https://github.com/DariuszRozmus/Computation_and_Complexity_Theory)
+- [Object-oriented technologies](https://github.com/DariuszRozmus/Object-oriented_technologies)
+- [UX of web applications](https://github.com/DariuszRozmus/UX_of_web_applications)
+- [Computer Graphics](https://github.com/DariuszRozmus/Computer_Graphics)
+- [Data Architecture and Information Menagment](https://github.com/DariuszRozmus/Data_Architecture_and_Information_Menagment)
 
 ---
 ## ⚡️ Stats
