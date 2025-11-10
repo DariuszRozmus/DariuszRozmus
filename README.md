@@ -17,40 +17,39 @@
 ## 🎓 Studies and Courses
 
 ### 📘 Semester 1
-- [Introduction to Computer Science](https://github.com/DariuszRozmus/Introduction_to_Computer_Science)
+- Introduction to Computer Science
 
 ### 📗 Semester 2
-- [Algorithms and Data Structures](https://github.com/DariuszRozmus/Algorithms_and_Data_Structures)
-- [Imperative Programming](https://github.com/DariuszRozmus/Imperative_Programming)
+- Algorithms and Data Structures
+- Imperative Programming
 
 ### 📘 Semester 3
-- [Introduction to Web Applications](https://github.com/DariuszRozmus/Introduction_to_Web_Applications)
-- [Object-Oriented Programming](https://github.com/DariuszRozmus/Object_Oriented_Programming)
-- [Introduction to Databases](https://github.com/DariuszRozmus/Introduction_to_Databases)
+- Introduction to Web Applications
+- Object-Oriented Programming
+- Introduction to Databases
 - Functional Programming
 - Probability and Statistics
-- [Differential Equations](https://github.com/DariuszRozmus/Differential_Equations)
+- Differential Equations
 
 ### 📗 Semester 4
-- [Computational Methods](https://github.com/DariuszRozmus/Computational_Methods)
+- Computational Methods
 - [Digital Electronics](https://github.com/DariuszRozmus/Digital_Electronics)
-- [Object-Oriented Design](https://github.com/DariuszRozmus/Object_Oriented_Design)
-- [Operating Systems](https://github.com/DariuszRozmus/Operating_Systems)
-- [Database Systems](https://github.com/DariuszRozmus/Database_Systems)
-- [Rust](https://github.com/DariuszRozmus/Rust)
-- [Erlang](https://github.com/DariuszRozmus/Erlang)
-- [Elixir](https://github.com/DariuszRozmus/Elixir)
+- Object-Oriented Design
+- Operating Systems
+- Database Systems
+- Rust
+- Erlang, Elixir
 
 ### 📗 Semester 5
-- [Microprocessor Technology](https://github.com/DariuszRozmus/Microprocessor_Technology)
-- [Computer Networks](https://github.com/DariuszRozmus/Computer_Networks)
-- [Fundamentals of artificial intelligence](https://github.com/DariuszRozmus/Fundamentals_of_Artificial_Intelligence)
-- [Theory of Concurrency](https://github.com/DariuszRozmus/Theory_of_Concurrency)
-- [Computation and Complexity Theory](https://github.com/DariuszRozmus/Computation_and_Complexity_Theory)
-- [Object-oriented technologies](https://github.com/DariuszRozmus/Object-oriented_technologies)
-- [UX of web applications](https://github.com/DariuszRozmus/UX_of_web_applications)
-- [Computer Graphics](https://github.com/DariuszRozmus/Computer_Graphics)
-- [Data Architecture and Information Menagment](https://github.com/DariuszRozmus/Data_Architecture_and_Information_Menagment)
+- Microprocessor Technology
+- Computer Networks
+- Fundamentals of artificial intelligence
+- Theory of Concurrency
+- Computation and Complexity Theory
+- Object-oriented technologies
+- UX of web applications
+- Computer Graphics
+- Data Architecture and Information Menagment
 
 ---
 ## ⚡️ Stats
@@ -60,10 +59,4 @@
 </div>
 <div>
   <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs?username=DariuszRozmus&theme=transparent&layout=compact&hide=css&langs_count=8&locale=en" alt="DariuszRozmus's Most Used Languages" />
-</div>
-<br><br>
-
-<div align="center"> 
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/{DariuszRozmus}/count.svg" alt="Visitor's Count" />
 </div>
