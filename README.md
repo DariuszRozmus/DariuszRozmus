@@ -7,11 +7,21 @@
 
 ---
 
-## 🚀 Projects
+## 🚀 Completed Projects
 
-- [MongoDB Ski-Rental](https://github.com/psarsky/database-course-miniproject)
-- [TSQL  Course Provider](https://github.com/jansarba/podstawy-baz-danych-projekt)
-- [Java Darwin World](https://github.com/mateunow/Darwin-World-Project)
+- [**MongoDB Ski-Rental**](https://github.com/psarsky/database-course-miniproject) — full-stack web app (Vite + Express + MongoDB) for managing ski equipment rentals.  
+- [**TSQL Course Provider**](https://github.com/jansarba/podstawy-baz-danych-projekt) — relational database project using MS SQL Server for course and user management.  
+- [**Java Darwin World**](https://github.com/mateunow/Darwin-World-Project) — object-oriented simulation inspired by natural selection principles.
+
+---
+
+## 🧩 Solved Algorithm Problems
+- [**LeetCode Profile**](https://github.com/DariuszRozmus/LeetCode) — solving algorithmic challenges to improve problem-solving and coding skills.
+
+---
+
+## ⚒️ Projects In Progress
+- [**Darwin World 2.0**](https://github.com/DariuszRozmus/Java-Object-Programming) — enhanced version of the previous ecosystem simulation, focusing on better architecture, modular design, and new mechanics.
 
 ---
 
@@ -55,6 +65,3 @@
 ---
 ![Dariusz's GitHub stats](https://github-readme-stats.vercel.app/api?username=dariuszrozmus&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dariuszrozmus&layout=compact&theme=radical)
-<div align="left">
-  <img width="490" src="https://github-readme-stats.vercel.app/api?username=DariuszRozmus&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="DariuszRozmus's GitHub Stats" />
-</div>
