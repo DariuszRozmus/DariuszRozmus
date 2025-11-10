@@ -34,7 +34,7 @@
 
 ### 📗 Semester 4
 - [Computational Methods](https://github.com/jansarba/numerical-analysis-lab)
-- [Digital Electronics](https://github.com/DariuszRozmus/Digital_Electronics)
+- [Digital Electronics](https://github.com/DariuszRozmus/Digital-Technology)
 - Object-Oriented Design
 - Operating Systems
 - [Database Systems](https://github.com/psarsky/databases-course)
