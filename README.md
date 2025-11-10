@@ -9,8 +9,9 @@
 
 ## 🚀 Projects
 
-- [MongoDB Ski-Rental](https://github.com/DariuszRozmus/Ski_Rental)
-- [TSQL  Course Provider](https://github.com/DariuszRozmus/Ski_Rental)
+- [MongoDB Ski-Rental](https://github.com/psarsky/database-course-miniproject)
+- [TSQL  Course Provider](https://github.com/jansarba/podstawy-baz-danych-projekt)
+- [Java Darwin World](https://github.com/mateunow/Darwin-World-Project)
 
 ---
 
@@ -32,11 +33,11 @@
 - Differential Equations
 
 ### 📗 Semester 4
-- Computational Methods
+- [Computational Methods](https://github.com/jansarba/numerical-analysis-lab)
 - [Digital Electronics](https://github.com/DariuszRozmus/Digital_Electronics)
 - Object-Oriented Design
 - Operating Systems
-- Database Systems
+- [Database Systems](https://github.com/psarsky/databases-course)
 - Rust
 - Erlang, Elixir
 
