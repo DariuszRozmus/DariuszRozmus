@@ -53,7 +53,7 @@
 - Data Architecture and Information Menagment
 
 ---
-
+![Dariusz's GitHub stats](https://github-readme-stats.vercel.app/api?username=TwojUsername&show_icons=true&theme=radical)
 <div align="left">
   <img width="490" src="https://github-readme-stats.vercel.app/api?username=DariuszRozmus&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="DariuszRozmus's GitHub Stats" />
 </div>
