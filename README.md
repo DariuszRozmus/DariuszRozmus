@@ -9,6 +9,7 @@
 
 ## 🚀 Completed Projects
 
+- [**ZTPInfo**](https://github.com/DariuszRozmus/ZTPInfo) — This API provides tools for accessing public transport information in Kraków, including routes, stops, and departure times. 
 - [**MongoDB Ski-Rental**](https://github.com/psarsky/database-course-miniproject) — full-stack web app (Vite + Express + MongoDB) for managing ski equipment rentals.  
 - [**TSQL Course Provider**](https://github.com/jansarba/podstawy-baz-danych-projekt) — relational database project using MS SQL Server for course and user management.  
 - [**Java Darwin World**](https://github.com/mateunow/Darwin-World-Project) — object-oriented simulation inspired by natural selection principles.
