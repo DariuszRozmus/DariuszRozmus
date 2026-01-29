@@ -21,7 +21,8 @@
 ---
 
 ## ⚒️ Projects In Progress
-- [**Darwin World 2.0**](https://github.com/DariuszRozmus/Java-Object-Programming) — enhanced version of the previous ecosystem simulation, focusing on better architecture, modular design, and new mechanics.
+- [**Darwin World 2.0**](https://github.com/DariuszRozmus/Darwin-World-2.0) — object-oriented simulation inspired by natural selection principles with better UI new mechanics and more
+- [**Object Oriented Programming 2.0**](https://github.com/DariuszRozmus/Java-Object-Programming) — enhanced version of the previous ecosystem simulation, focusing on better architecture, modular design, and new mechanics.
 
 ---
 
