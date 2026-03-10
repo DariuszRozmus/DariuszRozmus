@@ -64,7 +64,3 @@
 - UX of web applications
 - Computer Graphics
 - Data Architecture and Information Menagment
-
----
-![Dariusz's GitHub stats](https://github-readme-stats.vercel.app/api?username=dariuszrozmus&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dariuszrozmus&layout=compact&theme=radical)
